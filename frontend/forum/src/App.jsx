@@ -28,7 +28,7 @@ const App = () => {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Button
-        style={{ position: 'fixed', top: 10, right: 10 }}
+        style={{ position: 'fixed', top: 14, right: 10 }}
         onClick={toggleDarkMode}
         color="inherit"
       >
